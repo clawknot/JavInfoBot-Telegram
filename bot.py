@@ -29,7 +29,7 @@ import asyncio
 import aiohttp
 from urllib.parse import quote
 
-from . import config
+import config
 
 
 # --- Initialize Client --- #
